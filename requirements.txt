@@ -1,3 +1,4 @@
-PyMuPDF==1.19.6  
-Pillow==9.2.0   
-nltk==3.7  
+PyMuPDF
+Pillow
+nltk
+tk
